@@ -1,6 +1,7 @@
 """
 geometry_analysis.py
 This module contains the geometry analysis project.
+Author: Sharada Buddha
 """
 
 import numpy
